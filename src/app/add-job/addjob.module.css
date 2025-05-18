@@ -1,0 +1,41 @@
+.formContainer {
+  height: 100vh;
+  background: #fcfffd;
+}
+.pageHeader {
+  padding: 2rem;
+}
+.formheading {
+  color: #131541;
+  font-size: 1.25rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.formsubtext {
+  color: #5b5d88;
+  font-size: 1.025rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.laterButton {
+  border-radius: 0.5rem;
+  border: 1px solid #0068b4;
+  background: #fff;
+  color: #0068b4;
+  padding: 0.6rem 2rem;
+}
+.submitButton {
+  border-radius: 0.5rem;
+  background: #0068b4;
+  color: #fff;
+  padding: 0.6rem 2rem;
+}
+
+@media (max-width: 786px) {
+  .buttonDiv {
+    display: flex;
+    flex-direction: column;
+  }
+}
