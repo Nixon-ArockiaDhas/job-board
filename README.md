@@ -9,9 +9,6 @@ Before running this project, make sure you have the following installed on your 
 - **Node.js** (v18 or higher recommended): [Download here](https://nodejs.org/)
 - **npm** (comes with Node.js)
 
-> Optional but helpful:
-> - **Git**: To clone the repository from GitHub — [Download Git](https://git-scm.com/)
-
 ---
 
 ## 🚀 Getting Started
@@ -52,21 +49,6 @@ You should now see the Job Board app running locally!
 
 ---
 
-## 🛠 Folder Structure (Basic Overview)
-
-```
-job-board/
-├── app/               # Main app pages
-├── components/        # Reusable UI components
-├── context/           # React Context API for global state
-├── data/              # Mock job data
-├── public/            # Static files (e.g., logo.svg)
-├── styles/            # CSS modules or global styles
-├── README.md
-└── package.json
-```
-
----
 
 ## ❓ Need Help?
 
