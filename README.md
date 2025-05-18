@@ -8,6 +8,7 @@ Before running this project, make sure you have the following installed on your 
 
 - **Node.js** (v18 or higher recommended): [Download here](https://nodejs.org/)
 - **npm** (comes with Node.js)
+- - **Important Change** In src/app/handlers/apicall.ts remove https://job-board-eosin.vercel.app/api/jobs and change it into http://localhost:3000/api/jobs when comes to locally.
 
 ---
 
